@@ -1,5 +1,5 @@
 # FRSKD
-Official implementation for (Refine Myself by Teaching Myself : Feature Refinement via Self-Knowledge Distillation, CVPR-2021)
+Official implementation for [Refine Myself by Teaching Myself : Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273) (CVPR-2021)
 
 ## Requirements
 - Python3
