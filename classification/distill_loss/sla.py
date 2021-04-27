@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from distill_loss.KD import DistillKL
+from classification.distill_loss.KD import DistillKL
 
 
 def sla(args):
